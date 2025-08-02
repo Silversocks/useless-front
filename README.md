@@ -1,16 +1,17 @@
-# useless
+# Useless
 
-A new Flutter project.
+simplifying life at the click of a button
 
-## Getting Started
+## How to Use
 
-This project is a starting point for a Flutter application.
+just press the button, whenever you feel overwhelmed by emails
 
-A few resources to get you started if this is your first Flutter project:
+## what this is
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+this is a somewhat simple app that handles all your unread emails, with the press of a single button. However, as they say, there is no such thing as a free lunch. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## the roulette feature
+
+the creator of this app felt this was too useful of an app. thus, he added a little twist. every time the button is pressed, there is at least a 1 in 6 chance for it to deploy a custom workflow of OSINT agents, supplemented with a web scraper, to find out all possible details about the reciever of the email. this data is used to craft dangerous, unprofessional, insulting emails to the sender, instead of the regular reply to the email. 
+
+every time you press the button, you play russian roulette with your social life. no sane person wants to do that, making this the ultimate useless app.
