@@ -41,4 +41,4 @@ flutter run
 
 ## screenshots
 
-![screenshot1](Screenshot 2025-08-02 071410.png)
+![screenshot1](/Screenshot 2025-08-02 071410.png)
