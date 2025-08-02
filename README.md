@@ -42,3 +42,6 @@ flutter run
 ## screenshots
 
 ! [screenshot1] (Screenshot 2025-08-02 071410.png)
+! [screenshot2] (screenshot 2025-08-02 071626.png)
+! [screenshot2] (screenshot 2025-08-02 071922.png)
+
